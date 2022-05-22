@@ -13,7 +13,7 @@
 - `비즈니스 전략과 방법론의 다변화`와 `디지털전환`에 따른 `비전공자`들의 `전문인력 전환수요`를 위해 필요한 `역량`
 - `실제 기업`들의 `신입사원부터 임원들`까지 `비전공자들의 전문인력 함양`을 위해 진행중인 본인의 `실제 강의 프로그램 기초`
 
-<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_CareerGoal.png?raw=true' width='1000'></center>
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_CareerGoal.png?raw=true' width='1000'>(사원(Basic)/과장(Associate)/부장(Professtional)/임원(Maestro))</center>
 <center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_Curriculum.png?raw=true' width='1000'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
 
 ## Lecture List
