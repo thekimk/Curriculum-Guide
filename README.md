@@ -1,4 +1,13 @@
 ## ✔️ Curriculum-Guide
+> **"데이터 및 디지털 기반 사회경제적 비즈니스 전략과 방법론 변화에 따른 인재 수요 대응을 위한 비전공자들의 커리큘럼 개선"**
+
+### Direction
+- 국내 `유통, 통신, 제조, 금융 등 대표적 기업`의 `신입사원과 경력사원 및 임원 채용과 승진`을 위해 요구하는 `역량`
+- `비즈니스 전략과 방법론의 다변화`와 `디지털전환`에 따른 `비전공자`들의 `전문인력 전환수요`를 위해 필요한 `역량`
+- `실제 기업`들의 `신입사원부터 임원들`까지 `비전공자들의 전문인력 함양`을 위해 진행중인 본인의 `실제 강의 프로그램 기초`
+
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_CareerGoal.png?raw=true' width='900'></center>
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_Curriculum.png?raw=true' width='900'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
 
 ### 📚 Lectures
 - **인천대학교:**    
@@ -13,7 +22,8 @@
 | **인공지능활용디지털경제플랫폼연구** 	| 비즈니스혁신을위한데이터사이언스응용 	| 대학원<br>2학기 	| 선수과목 이수한 학년/학과 무관 	| `22년` 신설  	|
 
 - **사외교수/타대학/기업/온라인:**
-> (1) 파이썬 프로그래밍     
+> (0) 데이터비즈니스 현실 및 디지털전환     
+> (1) 데이터분석 프로그래밍(Python)     
 > (2) 데이터분석 및 머신러닝      
 > (3) 인공지능 알고리즘 및 응용     
 > (4) 시계열 데이터 처리 및 분석     
