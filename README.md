@@ -6,8 +6,8 @@
 - `비즈니스 전략과 방법론의 다변화`와 `디지털전환`에 따른 `비전공자`들의 `전문인력 전환수요`를 위해 필요한 `역량`
 - `실제 기업`들의 `신입사원부터 임원들`까지 `비전공자들의 전문인력 함양`을 위해 진행중인 본인의 `실제 강의 프로그램 기초`
 
-<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_CareerGoal.png?raw=true' width='900'></center>
-<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_Curriculum.png?raw=true' width='900'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_CareerGoal.png?raw=true' width='1000'></center>
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_Curriculum.png?raw=true' width='1000'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
 
 ### Lecture List
 - **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초`    
@@ -33,10 +33,11 @@
 > (8) 비즈니스전략 AI화 및 프로젝트 성능평가     
 
 ### Curriculum Details
-- **[1주차]** 오프라인+온라인 출석 `미체크`
-- **[오프라인]** `임의 시점과 상황`에서 `랜덤` 호명 체크
-- **[온라인실시간]** 수업참가 후 `교수(KIM Kyungwon)귓속말` 로 `이름+학번` 타이핑하여 체크
-- **[온라인동영상]** `시스템`이 `자동` 체크
+- **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초` 
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/Curriculum_INU.png?raw=true' width='1000'></center>
+
+- **사외교수/타대학/기업/온라인:** 기존 `전공자들과 비전공자`들의 `현업 비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
+<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/Curriculum_Others.png?raw=true' width='1000'></center>
 
 ### Real World Projects or Problems
 - 공개 불가로 인한 개별 문의 요망
