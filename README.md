@@ -14,8 +14,8 @@
 - `실제 기업`들의 `신입사원부터 임원들`까지 `비전공자들의 전문인력 함양`을 위해 진행중인 본인의 `실제 강의 프로그램 기초`
 - 사원(Basic)/과장(Associate)/부장(Professtional)/임원(Maestro)
 
-<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_CareerGoal.png?raw=true' width='1000'></center>
-<center><img src='https://github.com/cheonbi/Private/blob/main/Lecture/%5BDataScience%5D/Image/SKT_Curriculum.png?raw=true' width='1000'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
+<center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_CareerGoal.png' width='1000'></center>
+<center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_Curriculum.png' width='1000'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
 
 ## Lecture List
 - **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초`    
