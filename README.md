@@ -1,10 +1,3 @@
-## Contents
-[1) Curriculum-Guide](#curriculum-guide)     
-[2) Direction](#direction)     
-[3) Lecture List](#lecture-list)     
-[4) Curriculum Details](#curriculum-details)     
-[5) Real World Projects or Problems](#real-world-projects-or-problems)     
-
 ## Curriculum-Guide
 > **"데이터 및 디지털 기반 사회경제적 `비즈니스 전략과 방법론 변화`에 따른 `인재 수요 대응`을 위한 `비전공자들의 커리큘럼 개선`"**
 
