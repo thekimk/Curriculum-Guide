@@ -13,7 +13,7 @@
 ## Lecture List
 - **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초`    
 
-![강의방향_수강방향_김경원교수](https://github.com/user-attachments/assets/b354cad6-78f4-477d-a9bc-535152c63164)
+![new_direction](https://github.com/user-attachments/assets/4ae8a6af-0b5d-4b26-9af9-b6866cb860c5)
 ![강의방향_수강세부_김경원교수](https://github.com/user-attachments/assets/8b57f780-7130-4b2a-b2eb-7774239ac5fc)
 
 - **사외교수/타대학/기업/온라인 등:** 기존 `전공자들과 비전공자`들의 `현업 비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
