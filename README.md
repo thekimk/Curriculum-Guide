@@ -30,6 +30,7 @@
 ## Curriculum Details
 - **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초` 
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/Curriculum_INU.png' width='1000'></center>
+
 ![new_direction](https://github.com/user-attachments/assets/f70ee84c-0c70-4ef9-adc0-9ef524281cd0)
 
 - **사외교수/타대학/기업/온라인 등:** 기존 `전공자들과 비전공자`들의 `현업 비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
