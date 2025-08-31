@@ -31,12 +31,9 @@
 - 결과적으로 이는 학문적 성취를 넘어 취업과 경력개발에서 `데이터 기반 문제 해결자라는 브랜드 가치를 높이는 기회`가 된다.
 > 실제 현업 빅데이터와 AI 활용 전문가들은 `자신이 세상을 바꾸고 있다는 자부심을 획득하며 본인의 경쟁력과 몸값을 높임`
 
-- `비즈니스 전략과 방법론의 다변화`와 `디지털전환`에 따른 `비전공자`들의 `전문인력 전환수요`를 위해 필요한 `역량`
-- `실제 기업`들의 `신입사원부터 임원들`까지 `비전공자들의 전문인력 함양`을 위해 진행중인 본인의 `실제 강의 프로그램 기초`
-- 사원(Basic)/과장(Associate)/부장(Professtional)/임원(Maestro)
-
+<예시> 실제 SKT 신입사원부터 임원까지 비즈니스 전략과 방법론 변화 대응을 위해 `비전공자들의 전문인력 함양`을 목적으로 진행중인 `강의 프로그램 로드맵` by 김경원 교수
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_CareerGoal.png' width='1000'></center>
-<center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_Curriculum.png' width='1000'>(SKT 비전공자 비즈니스 전략과 방법론 변화 대응을 위해 신입사원부터 임원까지의 커리큘럼 제공 및 평가 by 김경원 교수)</center>
+<center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_Curriculum.png' width='1000'></center>
 
 ## Lecture List
 - **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초`    
