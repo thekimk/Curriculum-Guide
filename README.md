@@ -63,4 +63,3 @@
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/Curriculum_Others.png' width='1000'></center>
 
 ## [Real World Projects or Problems](https://sites.google.com/view/thekimk/projects?authuser=0)
-- https://sites.google.com/view/thekimk/projects?authuser=0
