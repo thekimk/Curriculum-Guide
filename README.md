@@ -38,12 +38,12 @@
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_Curriculum.png' width='1000'></center>
 
 ## Lecture List
-- **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초`    
+- **인천대학교:** 기술적 경쟁력과 사회적 통찰을 융합할 수 있는 인재를 위한 경쟁력 함양    
 
 ![강의방향_수강방향_김경원교수](https://github.com/user-attachments/assets/b354cad6-78f4-477d-a9bc-535152c63164)
 ![강의방향_수강세부_김경원교수](https://github.com/user-attachments/assets/8b57f780-7130-4b2a-b2eb-7774239ac5fc)
 
-- **사외교수/타대학/기업/온라인 등:** 기존 `전공자들과 비전공자`들의 `현업 비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
+- **사외교수/타대학/기업/온라인 등:** 기존 `비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
 > (0) `데이터비즈니스 현실 및 디지털전환`     
 > (1) `데이터분석 프로그래밍(Python)`     
 > (2) `데이터분석 및 머신러닝`      
@@ -55,11 +55,11 @@
 > (8) `비즈니스전략 AI화 및 프로젝트 성능평가`     
 
 ## Curriculum Details
-- **인천대학교:** `비전공자`들의 `신입사원 채용 및 승진`을 위한 `맞춤 인재 기초`
+- **인천대학교:** 기술적 경쟁력과 사회적 통찰을 융합할 수 있는 인재를 위한 경쟁력 함양
 
 ![new_direction](https://github.com/user-attachments/assets/f70ee84c-0c70-4ef9-adc0-9ef524281cd0)
 
-- **사외교수/타대학/기업/온라인 등:** 기존 `전공자들과 비전공자`들의 `현업 비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
+- **사외교수/타대학/기업/온라인 등:** 기존 `비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/Curriculum_Others.png' width='1000'></center>
 
 ## Real World Projects or Problems
