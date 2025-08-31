@@ -33,7 +33,7 @@
 
 ---
 
-<예시> 실제 SKT 직급별 비즈니스 전략과 방법론 변화 대응을 위해 `비전공자들의 전문인력 함양`을 목적으로 진행중인 `강의 프로그램 로드맵` by 김경원 교수
+<예시> 실제 SKT 직급별 비즈니스 전략과 방법론 변화 대응을 위해 `융합형 전문인력 함양`을 목적으로 진행중인 `비개발직 강의 프로그램 로드맵` by 김경원 교수
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_CareerGoal.png' width='1000'></center>
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/SKT_Curriculum.png' width='1000'></center>
 
