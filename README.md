@@ -62,5 +62,5 @@
 - **사외교수/타대학/기업/온라인 등:** 기존 `비즈니스와 프로젝트`에서 발생하는 `문제 해결 및 전략기획 대응`
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/Curriculum_Others.png' width='1000'></center>
 
-## Real World Projects or Problems
-- 공개 불가로 인한 개별 문의 요망
+## [Real World Projects or Problems](https://sites.google.com/view/thekimk/projects?authuser=0)
+- https://sites.google.com/view/thekimk/projects?authuser=0
