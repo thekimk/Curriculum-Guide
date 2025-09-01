@@ -6,15 +6,18 @@
 - 오늘날 사회는 급격한 `디지털 전환과 AI 확산의 시대`를 맞이하고 있다. 정부, 공공기관, 기업은 물론 시민사회 전반에 걸쳐 `데이터와 AI 기반 의사결정이 필수 역량`으로 자리 잡았다.
 - 예를 들어, 정책 수립에서는 인구·교통·환경 데이터 분석이 활용되고, 사회적 이슈 해결에서는 SNS 빅데이터 분석이 여론과 트렌드를 파악하는 도구로 사용된다.
 - 따라서 데이터사이언스는 여러분들에게 `사회적 문제 해결 능력`을 길러주며, 이는 곧 사회적 요구와 맞닿아 있다.
-> - [AI를 사회문제 해결 기제로 도입한 사례 및 정부 정책](https://www.fm.com/insights/the-rise-and-rise-of-south-koreas-data-center-industry?utm_source=chatgpt.com)
-> - [AI와 기후/환경·공공문제 연계](https://unfccc.int/news/ai-and-climate-action-opportunities-risks-and-challenges-for-developing-countries?utm_source=chatgpt.com)
-> - [사회복지·공적 서비스에서 AI 활용 연구](https://www.sipotra.it/wp-content/uploads/2025/03/Research-on-AI-Policy-and-Issues-in-key-Areas-in-South-Korea-Public-Sector-Law-Enforcement-Education-and-Social-Welfare.pdf?utm_source=chatgpt.com)
+> - [AI를 사회문제 해결 기제로 도입한 사례 및 정부 정책](https://www.fm.com/insights/the-rise-and-rise-of-south-koreas-data-center-industry?utm_source=chatgpt.com): 한국 정부가 AI를 경제성장 키로 중점 투자하는 전략 발표, AI 기반 의사결정 수요 강조
+> - [AI와 기후/환경·공공문제 연계](https://unfccc.int/news/ai-and-climate-action-opportunities-risks-and-challenges-for-developing-countries?utm_source=chatgpt.com): AI 에너지 관리 시스템이 온실가스 감축 및 재생 에너지 효율 향상을 돕는 사례
+> - [사회복지·공적 서비스에서 AI 활용 연구](https://www.sipotra.it/wp-content/uploads/2025/03/Research-on-AI-Policy-and-Issues-in-key-Areas-in-South-Korea-Public-Sector-Law-Enforcement-Education-and-Social-Welfare.pdf?utm_source=chatgpt.com): 한국 공공·사회복지 부문에서의 AI 적용 현황을 다룬 보고서
 
 **(2) 비즈니스적 요구사항:**
 - 국내외 산업계는 `데이터 중심의 경영 전략`을 핵심 과제로 삼고 있다.
 - 교육, 문화, 금융, 여행, 마케팅, 의료, 이커머스, 서비스 등 다양한 산업 분야에서 `신입사원 채용뿐만 아니라 중간관리자·임원 승진 요건`으로까지 데이터 활용 능력을 요구한다.
 - 단순한 이론 습득이 아니라, `비즈니스 의사결정에 데이터를 접목하는 실무형 능력`이 필요하다.
 - 여러분들이 데이터 전처리, 분석, 시각화, AI 모델링을 `실제 산업 사례와 연계`하여 경험하게 하여 산업 현장에서 즉시 활용할 수 있는 역량이 필요하다.
+> - [마케팅·브랜드 분야의 AI 맞춤화 사례](https://www.techradar.com/pro/how-ai-powered-personalization-is-creating-new-opportunities-for-brands?utm_source=chatgpt.com): AI 기반 개인화 전략이 브랜드 고객 경험·전환율을 개선한 실례
+> - [데이터 분석가들의 AI 활용 실태와 업무 변화](https://www.alteryx.com/resources/report/2025-state-of-the-data-analyst?utm_source=chatgpt.com): 글로벌 설문: 분석가 97%가 AI로 일상업무 가속, 여전히 수작업 병행
+> - [한국 AI 인프라 확충과 산업 전략](https://w.media/a-closer-look-at-south-koreas-data-center-market-in-2025/?utm_source=chatgpt.com): SK-AWS의 AI 데이터센터 대규모 투자 및 한국 AI 산업경쟁력 확보 움직임
 
 **(3) 융복합적 인재수요:**
 - 21세기 인재상은 단일 기술 전문가가 아니라 `자신의 전공을 데이터와 AI로 확장할 수 있는 융복합형 인재`다.
