@@ -23,12 +23,18 @@
 - 21세기 인재상은 단일 기술 전문가가 아니라 `자신의 전공을 데이터와 AI로 확장할 수 있는 융복합형 인재`다.
 - 공학적 관점에서 AI를 개발하는 기술자도 중요하지만, 교육학·경영학·사회학·의학·문화예술 등 `각 전공 분야에서 AI를 응용하여 사회적 가치를 창출하는 사람`이 더욱 필요하다.
 - 여러분들은 전공 구분 없이 `누구나 데이터를 활용해 문제를 정의하고, 이를 해결하는 분석적 사고력`을 기를 수 있는 것이 필요하다. 이를 통해 학생들은 전공의 깊이를 유지하면서도 폭넓은 확장성을 확보할 수 있다.
+> - [AI Across the Curriculum 모델 및 교육 프레임워크](https://www.sciencedirect.com/science/article/pii/S2666920X23000061?utm_source=chatgpt.com): AI 교육을 학문 전반에 통합하는 교육 모델 제안
+> - [학문 간 융합 AI 교육 사례](https://news.vcu.edu/article/2025/05/vcu-introducing-minor-in-ai-studies-that-uses-the-humanities-and-sciences-as-a-framework?utm_source=chatgpt.com): VCU의 인문학·과학 기반 AI 부전공 개설 사례
+> - [공학 기반 AI 교육에서의 융합 커리큘럼 개발 연구](https://www.sciencedirect.com/science/article/pii/S2666920X23000061?utm_source=chatgpt.com): 공학 계열에서 교육·산업·전공 간 통합 커리큘럼 설계 연구
 
 **(4) 인문학적 소양기대:** 
 - AI와 데이터 기술을 제대로 활용하기 위해서는 `인간과 사회에 대한 깊은 이해가 필수적`이다.
 - 기술만 다루는 전문가보다, `인간의 행동과 사회적 맥락을 이해하는 전문가`가 AI를 더 창의적이고 효과적으로 사용할 수 있다.
 - 예를 들어, 의료 AI는 환자의 데이터를 해석할 때 인간의 심리·윤리·사회적 맥락을 고려해야 하며, 마케팅 AI는 소비자의 문화적 코드와 정서를 이해해야 한다.
 - 본 수업들은 `데이터적 사고와 인문학적 성찰을 결합`하여, 기술을 넘어 사람 중심의 AI 활용을 할 수 있는 역량을 강조한다.
+> - [AI 리터러시의 구성요소로서 인문사회적 이해](https://arxiv.org/abs/2409.10552?utm_source=chatgpt.com): AI Literacy for All 이라는 논문으로, 기술 이해와 함께 윤리·사회적 맥락 포함한 4기둥 구조
+> - [AI와 인문정신의 미래 관계성 고찰](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence?utm_source=chatgpt.com): 「Will the Humanities Survive Artificial Intelligence?」 인문학 교육의 변화와 재정립에 대한 수필
+> - [AI 교육에서 인간 중심 시스템 중요성](https://www.tandfonline.com/doi/full/10.1080/19452829.2025.2517740?utm_source=chatgpt.com): AI는 인간 중심 시스템 속에서야 교육·인간발전을 혁신할 수 있다는 연구
 
 **(5) 자존감 및 경쟁력 향상:**
 - 데이터 및 AI 의사결정을 배우는 과정은 `단순히 기술 습득을 넘어 자기 효능감을 키우는 과정`이다.
@@ -36,6 +42,9 @@
 - 관련 수업을 통해 여러분들은 데이터로 문제를 해결하고 가치를 창출하는 경험을 축적하며, 이를 통해 `자신의 경쟁력을 체감`하게 된다.
 - 결과적으로 이는 학문적 성취를 넘어 취업과 경력개발에서 `데이터 기반 문제 해결자라는 브랜드 가치를 높이는 기회`가 된다.
 > 실제 현업 빅데이터와 AI 활용 전문가들은 `자신이 세상을 바꾸고 있다는 자부심을 획득하며 본인의 경쟁력과 몸값을 높임`
+> - [데이터 분석가 직무에서 AI 도입이 업무 자부심 및 효율에 미치는 효과](https://www.alteryx.com/resources/report/2025-state-of-the-data-analyst?utm_source=chatgpt.com): 97% 분석가가 AI 도구로 업무 속도 향상—즉시 활용 역량과 자기효능감과 연결
+> - [AI 집중 투자 정부 추진이 사회적 브랜드와 미래 기회로 이어짐](https://www.reuters.com/world/asia-pacific/south-korea-boost-budget-spending-bid-spur-ai-led-growth-2025-08-29/?utm_source=chatgpt.com): 한국 정부의 대규모 AI 연구·산업 예산 확대 계획 발표
+> - [AI 교육이 학생의 학습 성취감·진로 브랜딩에 기여](https://news.vcu.edu/article/2025/05/vcu-introducing-minor-in-ai-studies-that-uses-the-humanities-and-sciences-as-a-framework?utm_source=chatgpt.com): VCU 부전공 사례, 학생들이 역사·윤리·AI 비전을 융합해 능력을 확장하는 모습
 
 ---
 
