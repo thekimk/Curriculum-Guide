@@ -6,6 +6,7 @@
 - 오늘날 사회는 급격한 `디지털 전환과 AI 확산의 시대`를 맞이하고 있다. 정부, 공공기관, 기업은 물론 시민사회 전반에 걸쳐 `데이터와 AI 기반 의사결정이 필수 역량`으로 자리 잡았다.
 - 예를 들어, 정책 수립에서는 인구·교통·환경 데이터 분석이 활용되고, 사회적 이슈 해결에서는 SNS 빅데이터 분석이 여론과 트렌드를 파악하는 도구로 사용된다.
 - 따라서 데이터사이언스는 여러분들에게 `사회적 문제 해결 능력`을 길러주며, 이는 곧 사회적 요구와 맞닿아 있다.
+- [The rise and rise of South Korea's data center industry](https://www.fm.com/insights/the-rise-and-rise-of-south-koreas-data-center-industry?utm_source=chatgpt.com)
 
 **(2) 비즈니스적 요구사항:**
 - 국내외 산업계는 `데이터 중심의 경영 전략`을 핵심 과제로 삼고 있다.
