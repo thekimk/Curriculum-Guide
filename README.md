@@ -88,3 +88,5 @@
 <center><img src='https://github.com/cheonbi/Curriculum-Guide/blob/main/Curriculum_Others.png' width='1000'></center>
 
 ## [Real World Projects or Problems](https://sites.google.com/view/thekimk/projects?authuser=0)
+
+![Image](https://github.com/user-attachments/assets/677932b7-d11e-445d-849b-3fdf21a894e0)
